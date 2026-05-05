@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777838872774,
+      "tag": "0000_volatile_tigra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777838962835,
+      "tag": "0001_gray_betty_brant",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1777844188009,
+      "tag": "0002_wet_the_fury",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1777849586561,
+      "tag": "0003_thin_longshot",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1777883542068,
+      "tag": "0004_thin_warbird",
+      "breakpoints": true
+    }
+  ]
+}
